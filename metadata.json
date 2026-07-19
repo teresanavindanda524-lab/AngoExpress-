@@ -1,0 +1,6 @@
+{
+  "name": "Ango Express",
+  "description": "Plataforma profissional angolana de e-commerce intermediária para compras internacionais na Shein e AliExpress em Kwanzas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
